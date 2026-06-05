@@ -12,10 +12,6 @@ The following figure illustrates the overall concept and workflow of the propose
 
 ---
 
-## Repository Structure
-
-text AngleToken/ ├── Implement_code.py ├── run_implement.py ├── global_index.zip ├── Overviewpic.png └── README.md 
-
 ### Implement_code.py
 
 This file contains the complete implementation of the AngleToken framework, including:
